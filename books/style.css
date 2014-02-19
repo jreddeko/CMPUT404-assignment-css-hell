@@ -1,0 +1,82 @@
+
+.fig {
+	width:100% !important;
+}
+.toc {
+	text-align: center;
+}
+
+img {
+	border:1px solid #021a40;
+    width:  50%; 
+    height: 50%;
+}
+
+body {
+	background-color: #FEFEFF;
+	font-family: 'EB Garamond', serif;
+	text-align: center;
+	margin-left:300px;
+	margin-right:300px
+}
+
+h1 {
+	text-align: center;
+    font-weight: normal;
+    
+}
+
+h2 {	
+	text-align: center;
+    font-weight: normal;
+    
+}
+
+h3 {
+	text-align: center;
+    font-weight: normal;
+    
+}
+
+h4 {
+	text-align: center;
+    font-weight: normal;
+ 
+}
+
+h5 {
+	text-align: center;
+    font-weight: normal;
+}
+
+div.contents > p {
+	text-align: center;
+    font-size: 110%;
+}
+
+div.illustrations > p {
+	text-align: center;
+	font-size: 110%;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+p {
+	font-family: 'EB Garamond', serif;
+	text-align: justify;
+	font-size:130%;
+ }
+
+a {
+	text-align: center;
+	text-decoration: inherit; 
+	cursor: default;
+}
+
+title {
+	text-align: center;
+}
